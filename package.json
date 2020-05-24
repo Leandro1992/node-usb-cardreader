@@ -1,0 +1,14 @@
+{
+  "name": "node-usb-cardreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leandro Marques <leandro1992@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "usb": "^1.6.3"
+  }
+}
