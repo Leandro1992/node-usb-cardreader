@@ -45,9 +45,10 @@ console.log(reader.getDeviceList(true))
   - **findDeviceByIds** - Get an especific device using idVendor and idProduct
 
 
-## Examples
+## Information
 
-Check the 'exemple.js' file and uncomment action that you would like to test.
+If you are on Windows you must install WinUSB driver [Zadig]
+This project use USB Library for Node  [USB]
 
 ## Todos
 
@@ -59,3 +60,7 @@ License
 [MIT](https://choosealicense.com/licenses/mit/)
 
 [Github repository]: <https://github.com/Leandro1992/node-usb-cardreader>
+
+[Zadig]: <https://zadig.akeo.ie/>
+
+[USB]: <https://www.npmjs.com/package/usb#usbgetdevicelist>
