@@ -10,5 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "usb": "^1.6.3"
-  }
+  },
+  "keywords": [
+    "rfid-node",
+    "card-reader",
+    "rfid",
+    "node-usb-card"
+  ]
 }
