@@ -1,4 +1,4 @@
-# node-mt166
+# node-usb-cardreader
 A NodeJS module to USB Card Reader 
 
 ### Github
